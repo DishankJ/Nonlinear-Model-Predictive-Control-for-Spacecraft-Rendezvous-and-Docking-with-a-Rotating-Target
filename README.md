@@ -37,8 +37,12 @@ The blue circle represents the chaser spacecraft while the rotating target in gr
     <br>Path Animation
 </p>
 
-
+**Trajectory Plot**
 <p align="center" width="100%">
-    <img src="/images/path_results1.png" width="100%">
+    <img src="/images/plot_results2.png" width="100%">
     <br>Results Plot(sampling time of 0.1s and for 100 timesteps)
 </p>
+
+## References
+[Nonlinear model predictive control for spacecraft rendezvous and docking with a rotating target](https://core.ac.uk/download/pdf/81223756.pdf)
+[Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function](https://arxiv.org/pdf/2007.11718)
