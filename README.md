@@ -45,4 +45,5 @@ The blue circle represents the chaser spacecraft while the rotating target in gr
 
 ## References
 [Nonlinear model predictive control for spacecraft rendezvous and docking with a rotating target](https://core.ac.uk/download/pdf/81223756.pdf)
+
 [Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function](https://arxiv.org/pdf/2007.11718)
