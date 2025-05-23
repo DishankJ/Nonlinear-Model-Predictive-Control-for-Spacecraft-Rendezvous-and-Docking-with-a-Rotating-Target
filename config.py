@@ -10,7 +10,7 @@ T_horizon = 10
 sim_time = 1000
 rad_hold = 1.15
 safety_dist = 0.03
-gamma = 0.3
+gamma = 0.1
 alpha = 0.95
 
 u_max = 20*np.array([1, 1, 1])
