@@ -26,7 +26,9 @@ $$\\begin{aligned}
  & \\Delta h\\left(x\_{t+k \\mid t}, u\_{t+k \\mid t}\\right) \\geq-\\gamma h\\left(x\_{t+k \\mid t}\\right), \\quad k=0, \\ldots, N-1 \\\\
 \\end{aligned}$$
 
-where $\tilde x=x_k - x_{target,k}$. Also, The last constraint is non-linear which makes it a non-linear problem.
+where $\tilde x=x_k - x_{target,k}$.
+
+In the first reference, more constraints (non-linear) were part of the optimization problem. However, the current constraints also work well. This will be a part of future work.
 
 ## Results
 **Simulation**
